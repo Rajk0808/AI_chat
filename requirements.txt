@@ -1,0 +1,13 @@
+langchain_groq 
+langgraph 
+langchain 
+langchain_community 
+langchain_core 
+langchain_text_splitters 
+langchain_openai 
+chromadb 
+rank_bm25
+PyPDF2
+python-docx 
+beautifulsoup4
+pinecone
