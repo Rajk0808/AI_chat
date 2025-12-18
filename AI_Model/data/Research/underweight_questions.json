@@ -1,0 +1,806 @@
+{
+  "disease": "Underweight",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "underweight_001",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q1)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_002",
+      "question": "What should pet owners know about causes in Underweight? (Q2)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_003",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q3)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_004",
+      "question": "What should pet owners know about nutrition in Underweight? (Q4)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_005",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q5)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_006",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q6)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_007",
+      "question": "What should pet owners know about recovery in Underweight? (Q7)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_008",
+      "question": "What should pet owners know about recovery in Underweight? (Q8)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_009",
+      "question": "What should pet owners know about signs in Underweight? (Q9)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_010",
+      "question": "What should pet owners know about nutrition in Underweight? (Q10)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_011",
+      "question": "What should pet owners know about signs in Underweight? (Q11)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_012",
+      "question": "What should pet owners know about nutrition in Underweight? (Q12)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_013",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q13)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_014",
+      "question": "What should pet owners know about causes in Underweight? (Q14)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_015",
+      "question": "What should pet owners know about recovery in Underweight? (Q15)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_016",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q16)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_017",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q17)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_018",
+      "question": "What should pet owners know about nutrition in Underweight? (Q18)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_019",
+      "question": "What should pet owners know about recovery in Underweight? (Q19)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_020",
+      "question": "What should pet owners know about recovery in Underweight? (Q20)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_021",
+      "question": "What should pet owners know about nutrition in Underweight? (Q21)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_022",
+      "question": "What should pet owners know about recovery in Underweight? (Q22)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_023",
+      "question": "What should pet owners know about signs in Underweight? (Q23)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_024",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q24)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_025",
+      "question": "What should pet owners know about causes in Underweight? (Q25)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_026",
+      "question": "What should pet owners know about recovery in Underweight? (Q26)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_027",
+      "question": "What should pet owners know about signs in Underweight? (Q27)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_028",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q28)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_029",
+      "question": "What should pet owners know about signs in Underweight? (Q29)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_030",
+      "question": "What should pet owners know about nutrition in Underweight? (Q30)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_031",
+      "question": "What should pet owners know about signs in Underweight? (Q31)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_032",
+      "question": "What should pet owners know about nutrition in Underweight? (Q32)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_033",
+      "question": "What should pet owners know about causes in Underweight? (Q33)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_034",
+      "question": "What should pet owners know about recovery in Underweight? (Q34)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_035",
+      "question": "What should pet owners know about causes in Underweight? (Q35)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_036",
+      "question": "What should pet owners know about signs in Underweight? (Q36)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_037",
+      "question": "What should pet owners know about signs in Underweight? (Q37)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_038",
+      "question": "What should pet owners know about signs in Underweight? (Q38)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_039",
+      "question": "What should pet owners know about nutrition in Underweight? (Q39)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_040",
+      "question": "What should pet owners know about signs in Underweight? (Q40)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_041",
+      "question": "What should pet owners know about signs in Underweight? (Q41)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_042",
+      "question": "What should pet owners know about causes in Underweight? (Q42)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_043",
+      "question": "What should pet owners know about causes in Underweight? (Q43)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_044",
+      "question": "What should pet owners know about causes in Underweight? (Q44)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_045",
+      "question": "What should pet owners know about recovery in Underweight? (Q45)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_046",
+      "question": "What should pet owners know about causes in Underweight? (Q46)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_047",
+      "question": "What should pet owners know about nutrition in Underweight? (Q47)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_048",
+      "question": "What should pet owners know about signs in Underweight? (Q48)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_049",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q49)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_050",
+      "question": "What should pet owners know about recovery in Underweight? (Q50)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_051",
+      "question": "What should pet owners know about recovery in Underweight? (Q51)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_052",
+      "question": "What should pet owners know about causes in Underweight? (Q52)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_053",
+      "question": "What should pet owners know about nutrition in Underweight? (Q53)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_054",
+      "question": "What should pet owners know about nutrition in Underweight? (Q54)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_055",
+      "question": "What should pet owners know about nutrition in Underweight? (Q55)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_056",
+      "question": "What should pet owners know about causes in Underweight? (Q56)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_057",
+      "question": "What should pet owners know about nutrition in Underweight? (Q57)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_058",
+      "question": "What should pet owners know about causes in Underweight? (Q58)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_059",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q59)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_060",
+      "question": "What should pet owners know about causes in Underweight? (Q60)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_061",
+      "question": "What should pet owners know about nutrition in Underweight? (Q61)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_062",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q62)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_063",
+      "question": "What should pet owners know about causes in Underweight? (Q63)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_064",
+      "question": "What should pet owners know about nutrition in Underweight? (Q64)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_065",
+      "question": "What should pet owners know about signs in Underweight? (Q65)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_066",
+      "question": "What should pet owners know about recovery in Underweight? (Q66)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_067",
+      "question": "What should pet owners know about nutrition in Underweight? (Q67)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_068",
+      "question": "What should pet owners know about recovery in Underweight? (Q68)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_069",
+      "question": "What should pet owners know about causes in Underweight? (Q69)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_070",
+      "question": "What should pet owners know about causes in Underweight? (Q70)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_071",
+      "question": "What should pet owners know about signs in Underweight? (Q71)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_072",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q72)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_073",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q73)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_074",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q74)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_075",
+      "question": "What should pet owners know about causes in Underweight? (Q75)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_076",
+      "question": "What should pet owners know about signs in Underweight? (Q76)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_077",
+      "question": "What should pet owners know about causes in Underweight? (Q77)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_078",
+      "question": "What should pet owners know about nutrition in Underweight? (Q78)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_079",
+      "question": "What should pet owners know about signs in Underweight? (Q79)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_080",
+      "question": "What should pet owners know about causes in Underweight? (Q80)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_081",
+      "question": "What should pet owners know about signs in Underweight? (Q81)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_082",
+      "question": "What should pet owners know about nutrition in Underweight? (Q82)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_083",
+      "question": "What should pet owners know about recovery in Underweight? (Q83)",
+      "answer": "This question addresses recovery related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_084",
+      "question": "What should pet owners know about signs in Underweight? (Q84)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_085",
+      "question": "What should pet owners know about nutrition in Underweight? (Q85)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_086",
+      "question": "What should pet owners know about nutrition in Underweight? (Q86)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_087",
+      "question": "What should pet owners know about signs in Underweight? (Q87)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_088",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q88)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_089",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q89)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_090",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q90)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_091",
+      "question": "What should pet owners know about nutrition in Underweight? (Q91)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_092",
+      "question": "What should pet owners know about causes in Underweight? (Q92)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_093",
+      "question": "What should pet owners know about signs in Underweight? (Q93)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_094",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q94)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_095",
+      "question": "What should pet owners know about causes in Underweight? (Q95)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_096",
+      "question": "What should pet owners know about signs in Underweight? (Q96)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_097",
+      "question": "What should pet owners know about causes in Underweight? (Q97)",
+      "answer": "This question addresses causes related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_098",
+      "question": "What should pet owners know about vet_checks in Underweight? (Q98)",
+      "answer": "This question addresses vet_checks related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_checks",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_099",
+      "question": "What should pet owners know about signs in Underweight? (Q99)",
+      "answer": "This question addresses signs related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Underweight",
+      "lang": "en"
+    },
+    {
+      "id": "underweight_100",
+      "question": "What should pet owners know about nutrition in Underweight? (Q100)",
+      "answer": "This question addresses nutrition related to Underweight. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "nutrition",
+      "disease": "Underweight",
+      "lang": "en"
+    }
+  ]
+}

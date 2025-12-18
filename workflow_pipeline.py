@@ -1,10 +1,11 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from AI_Model.src.utils.exceptions import CustomException
 from AI_Model.src.workflow.graph_builder import build_complete_workflow
 import logging
 from typing import Optional
 import traceback
-
+import sys
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app)
@@ -41,7 +42,7 @@ class ChatbotPipeline:
         try:
             # Create initial state
             initial_state = {
-                "user_input": user_input,
+                "query": user_input,
                 "conversation_history": self.conversation_history,
                 "use_rag": True,  # Set based on your logic
                 "messages": [],
@@ -57,7 +58,7 @@ class ChatbotPipeline:
             
             # Update conversation history
             self.conversation_history.append({
-                "user": user_input,
+                "query": user_input,
                 "bot": bot_response
             })
             
@@ -68,7 +69,7 @@ class ChatbotPipeline:
             error_msg = f"Error processing message: {str(e)}"
             logger.error(error_msg)
             logger.error(traceback.format_exc())
-            return error_msg
+            raise CustomException(e, sys)
     
     def _extract_response(self, result: dict) -> str:
         """

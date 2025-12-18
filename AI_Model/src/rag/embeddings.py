@@ -16,8 +16,8 @@ class EmbeddingServices:
 
     def embed_query(self,query:str)->List[float]:
 
-        if not query or query.strip():
-            raise ValueError("QUestion text is empty")
+        if not query or not query.strip(): 
+            raise ValueError("Question text is empty")
 
         response=self.client.embeddings.create(
             model=self.model,

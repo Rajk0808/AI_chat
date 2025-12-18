@@ -1,10 +1,11 @@
 import logging
 from typing import Dict, List
-from exceptions import CustomException
 import re
 import sys
-from documents_parser import DocumentSourceExtractor
-
+from pathlib import Path
+sys.path.insert(0,str(Path(__file__).parent))
+from utils.exceptions import CustomException
+from utils.documents_parser import DocumentSourceExtractor
 logger = logging.getLogger(__name__)
 
 class Node6ResponseValidator:
@@ -84,7 +85,6 @@ class Node6ResponseValidator:
 
             confidence_score = self._calculate_confidence(
                 response = formatted_response,
-                module = state['prompt_module'],
                 has_rag = state.get('use_rag', False),
                 quality_status = quality_check['status']
             )
@@ -228,7 +228,7 @@ class Node6ResponseValidator:
         return formatted
     
     
-    def _calculate_confidence(self, response: str, module: str, has_rag: bool, quality_status: str) -> float:
+    def _calculate_confidence(self, response: str, has_rag: bool, quality_status: str) -> float:
         """Calculate confidence score (0-1)"""
         
         score = 0.5  # Start at 50%

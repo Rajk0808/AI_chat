@@ -1,15 +1,23 @@
 from openai import OpenAI
+import sys
+from pathlib import Path
+sys.path.insert(0,str(Path(__file__).parent.parent))
 import time
 import logging
 from typing import Dict, Optional
 from datetime import datetime
 from openai import OpenAI, APIError, RateLimitError, APIConnectionError
-from src.models.model_factory import ModelFactory
-from src.utils.exceptions import CustomException
-from src.utils.metrics import MetricsTracker
+from models.model_factory import ModelFactory
+from utils.exceptions import CustomException
+from utils.metrics import MetricsTracker
+from openai import OpenAI
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+import config.constants as config
 from datetime import datetime
 from datetime import datetime
-from src.utils.exceptions import CustomException
+from utils.exceptions import CustomException
 logger = logging.getLogger(__name__)
 
 class Node5ModelInference:
@@ -25,7 +33,7 @@ class Node5ModelInference:
     - Monitor rate limits
     """
     
-    def __init__(self, api_key: Optional[str] = None):
+    def __init__(self, api_key: Optional[str] = config.OPENAIAPI):
         """
         Initialize model inference engine
         
@@ -213,7 +221,7 @@ class Node5ModelInference:
     # HELPER METHODS
     # ====================================================================
     
-    def _select_model(self, state: Dict) -> str:
+    def _select_model(self, state: Dict)->str:
         """
         Select which model to use: fine-tuned or base
         
@@ -228,7 +236,7 @@ class Node5ModelInference:
                 return state["model_to_use"]
             
             # Check if we have an active fine-tuned model
-            fine_tuned_model = self.model_factory.get_active_fine_tuned_model()
+            fine_tuned_model = None #self.model_factory.get_active_fine_tuned_model()
             
             if fine_tuned_model and fine_tuned_model.get("performance_score", 0) >= 0.85:
                 logger.info(f"Using fine-tuned model: {fine_tuned_model['id']}")
@@ -314,9 +322,11 @@ class Node5ModelInference:
         
         for attempt in range(self.max_retries):
             try:
+                from openai import OpenAI
                 logger.info(f"API call attempt {attempt + 1}/{self.max_retries}...")
                 base_model = self.model_factory.get_base_model()
-                response = base_model.chat.completions.create(
+                client = OpenAI(api_key=config.OPENAIAPI)
+                response = client.chat.completions.create(
                     model=model,
                     messages=[
                         {

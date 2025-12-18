@@ -4,11 +4,12 @@ import asyncio
 from typing import Dict, List, Optional
 from datetime import datetime
 from pathlib import Path
-
+import sys
+sys.path.insert(0,str(Path(__file__).parent.parent))
 from openai import OpenAI
 from database.connections import DatabaseManager
-from accumulated_example_counter import AccumulatedExamplesCounter
-from src.utils.exceptions import CustomException
+from fine_tuning.accumulated_example_counter import AccumulatedExamplesCounter
+from utils.exceptions import CustomException
 
 logger = logging.getLogger(__name__)
 

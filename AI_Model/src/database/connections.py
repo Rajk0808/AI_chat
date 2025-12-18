@@ -2,7 +2,9 @@ import logging
 from typing import Dict, Optional
 from datetime import datetime, timedelta
 from contextlib import contextmanager
-
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent))
 from sqlalchemy import create_engine, desc
 from sqlalchemy.orm import sessionmaker, Session
 from sqlalchemy.exc import SQLAlchemyError
@@ -59,8 +61,8 @@ class DatabaseManager:
             raise
     
     
-    @contextmanager
-    def get_session(self) -> Session:
+    @contextmanager #type: ignore
+    def get_session(self) -> Session: #type: ignore 
         """
         Context manager for database sessions
         
@@ -137,12 +139,12 @@ class DatabaseManager:
     
     
     # ====================================================================
-    # FINE-TUNING JOB OPERATIONS (NEW FUNCTIONS)
+    # FINE-TUNING JOB OPERATIONS
     # ====================================================================
     
     def save_fine_tuning_job(self, job_data: Dict) -> str:
         """
-        MISSING FUNCTION #1: Save fine-tuning job to database
+        Save fine-tuning job to database
         
         Called by fine-tuning pipeline when creating a job
         
@@ -179,7 +181,7 @@ class DatabaseManager:
                     training_file_id=job_data.get("training_file_id"),
                     created_at=job_data.get("created_at", datetime.now()),
                     examples_count=job_data.get("examples_count", 0),
-                    metadata=job_data.get("metadata", {})
+                    job_metadata=job_data.get("metadata", {})  # ✅ FIXED: metadata → job_metadata
                 )
                 session.add(job)
                 logger.info(f"Fine-tuning job saved: {job_id}")
@@ -193,7 +195,7 @@ class DatabaseManager:
     
     def update_fine_tuning_job_status(self, openai_job_id: str, status: str) -> None:
         """
-        MISSING FUNCTION #2: Update fine-tuning job status
+        Update fine-tuning job status
         
         Called by fine-tuning pipeline to track progress
         
@@ -233,7 +235,7 @@ class DatabaseManager:
     
     def set_active_model(self, model_id: str) -> None:
         """
-        MISSING FUNCTION #3: Set model as active (deployed)
+        Set model as active (deployed)
         
         Called by fine-tuning pipeline when deploying new model
         

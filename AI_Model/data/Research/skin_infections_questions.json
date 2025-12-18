@@ -1,0 +1,806 @@
+{
+  "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "skin_infections_001",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q1)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_002",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q2)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_003",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q3)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_004",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q4)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_005",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q5)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_006",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q6)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_007",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q7)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_008",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q8)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_009",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q9)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_010",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q10)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_011",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q11)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_012",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q12)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_013",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q13)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_014",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q14)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_015",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q15)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_016",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q16)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_017",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q17)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_018",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q18)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_019",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q19)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_020",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q20)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_021",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q21)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_022",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q22)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_023",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q23)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_024",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q24)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_025",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q25)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_026",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q26)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_027",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q27)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_028",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q28)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_029",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q29)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_030",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q30)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_031",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q31)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_032",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q32)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_033",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q33)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_034",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q34)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_035",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q35)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_036",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q36)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_037",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q37)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_038",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q38)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_039",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q39)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_040",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q40)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_041",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q41)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_042",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q42)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_043",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q43)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_044",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q44)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_045",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q45)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_046",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q46)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_047",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q47)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_048",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q48)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_049",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q49)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_050",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q50)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_051",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q51)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_052",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q52)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_053",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q53)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_054",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q54)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_055",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q55)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_056",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q56)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_057",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q57)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_058",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q58)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_059",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q59)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_060",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q60)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_061",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q61)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_062",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q62)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_063",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q63)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_064",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q64)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_065",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q65)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_066",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q66)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_067",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q67)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_068",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q68)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_069",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q69)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_070",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q70)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_071",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q71)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_072",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q72)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_073",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q73)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_074",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q74)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_075",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q75)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_076",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q76)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_077",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q77)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_078",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q78)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_079",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q79)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_080",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q80)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_081",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q81)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_082",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q82)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_083",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q83)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_084",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q84)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_085",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q85)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_086",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q86)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_087",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q87)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_088",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q88)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_089",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q89)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_090",
+      "question": "What should pet owners know about hygiene in Skin Infections (Bacterial/Fungal/Yeast)? (Q90)",
+      "answer": "This question addresses hygiene related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "hygiene",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_091",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q91)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_092",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q92)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_093",
+      "question": "What should pet owners know about diagnostics in Skin Infections (Bacterial/Fungal/Yeast)? (Q93)",
+      "answer": "This question addresses diagnostics related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diagnostics",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_094",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q94)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_095",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q95)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_096",
+      "question": "What should pet owners know about symptoms in Skin Infections (Bacterial/Fungal/Yeast)? (Q96)",
+      "answer": "This question addresses symptoms related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "symptoms",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_097",
+      "question": "What should pet owners know about prevention in Skin Infections (Bacterial/Fungal/Yeast)? (Q97)",
+      "answer": "This question addresses prevention related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_098",
+      "question": "What should pet owners know about types in Skin Infections (Bacterial/Fungal/Yeast)? (Q98)",
+      "answer": "This question addresses types related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "types",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_099",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q99)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    },
+    {
+      "id": "skin_infections_100",
+      "question": "What should pet owners know about medication in Skin Infections (Bacterial/Fungal/Yeast)? (Q100)",
+      "answer": "This question addresses medication related to Skin Infections (Bacterial/Fungal/Yeast). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Skin Infections (Bacterial/Fungal/Yeast)",
+      "lang": "en"
+    }
+  ]
+}

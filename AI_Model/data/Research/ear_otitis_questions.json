@@ -1,0 +1,806 @@
+{
+  "disease": "Ear Redness & Otitis",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "ear_otitis_001",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q1)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_002",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q2)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_003",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q3)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_004",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q4)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_005",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q5)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_006",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q6)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_007",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q7)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_008",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q8)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_009",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q9)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_010",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q10)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_011",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q11)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_012",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q12)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_013",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q13)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_014",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q14)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_015",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q15)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_016",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q16)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_017",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q17)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_018",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q18)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_019",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q19)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_020",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q20)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_021",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q21)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_022",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q22)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_023",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q23)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_024",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q24)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_025",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q25)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_026",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q26)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_027",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q27)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_028",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q28)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_029",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q29)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_030",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q30)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_031",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q31)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_032",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q32)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_033",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q33)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_034",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q34)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_035",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q35)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_036",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q36)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_037",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q37)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_038",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q38)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_039",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q39)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_040",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q40)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_041",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q41)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_042",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q42)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_043",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q43)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_044",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q44)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_045",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q45)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_046",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q46)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_047",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q47)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_048",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q48)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_049",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q49)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_050",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q50)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_051",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q51)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_052",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q52)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_053",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q53)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_054",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q54)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_055",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q55)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_056",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q56)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_057",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q57)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_058",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q58)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_059",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q59)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_060",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q60)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_061",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q61)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_062",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q62)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_063",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q63)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_064",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q64)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_065",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q65)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_066",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q66)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_067",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q67)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_068",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q68)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_069",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q69)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_070",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q70)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_071",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q71)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_072",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q72)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_073",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q73)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_074",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q74)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_075",
+      "question": "What should pet owners know about mites in Ear Redness & Otitis? (Q75)",
+      "answer": "This question addresses mites related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "mites",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_076",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q76)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_077",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q77)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_078",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q78)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_079",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q79)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_080",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q80)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_081",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q81)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_082",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q82)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_083",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q83)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_084",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q84)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_085",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q85)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_086",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q86)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_087",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q87)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_088",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q88)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_089",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q89)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_090",
+      "question": "What should pet owners know about yeast in Ear Redness & Otitis? (Q90)",
+      "answer": "This question addresses yeast related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "yeast",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_091",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q91)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_092",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q92)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_093",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q93)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_094",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q94)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_095",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q95)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_096",
+      "question": "What should pet owners know about bacterial in Ear Redness & Otitis? (Q96)",
+      "answer": "This question addresses bacterial related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bacterial",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_097",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q97)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_098",
+      "question": "What should pet owners know about cleaning in Ear Redness & Otitis? (Q98)",
+      "answer": "This question addresses cleaning related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_099",
+      "question": "What should pet owners know about prevention in Ear Redness & Otitis? (Q99)",
+      "answer": "This question addresses prevention related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    },
+    {
+      "id": "ear_otitis_100",
+      "question": "What should pet owners know about medication in Ear Redness & Otitis? (Q100)",
+      "answer": "This question addresses medication related to Ear Redness & Otitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "medication",
+      "disease": "Ear Redness & Otitis",
+      "lang": "en"
+    }
+  ]
+}

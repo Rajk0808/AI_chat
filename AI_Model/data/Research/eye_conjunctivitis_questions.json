@@ -1,0 +1,806 @@
+{
+  "disease": "Eye Discharge & Conjunctivitis",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "eye_conjunctivitis_001",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q1)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_002",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q2)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_003",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q3)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_004",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q4)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_005",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q5)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_006",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q6)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_007",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q7)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_008",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q8)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_009",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q9)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_010",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q10)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_011",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q11)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_012",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q12)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_013",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q13)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_014",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q14)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_015",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q15)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_016",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q16)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_017",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q17)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_018",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q18)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_019",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q19)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_020",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q20)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_021",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q21)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_022",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q22)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_023",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q23)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_024",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q24)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_025",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q25)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_026",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q26)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_027",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q27)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_028",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q28)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_029",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q29)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_030",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q30)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_031",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q31)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_032",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q32)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_033",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q33)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_034",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q34)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_035",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q35)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_036",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q36)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_037",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q37)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_038",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q38)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_039",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q39)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_040",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q40)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_041",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q41)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_042",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q42)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_043",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q43)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_044",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q44)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_045",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q45)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_046",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q46)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_047",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q47)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_048",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q48)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_049",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q49)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_050",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q50)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_051",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q51)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_052",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q52)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_053",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q53)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_054",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q54)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_055",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q55)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_056",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q56)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_057",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q57)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_058",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q58)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_059",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q59)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_060",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q60)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_061",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q61)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_062",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q62)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_063",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q63)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_064",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q64)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_065",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q65)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_066",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q66)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_067",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q67)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_068",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q68)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_069",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q69)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_070",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q70)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_071",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q71)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_072",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q72)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_073",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q73)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_074",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q74)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_075",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q75)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_076",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q76)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_077",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q77)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_078",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q78)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_079",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q79)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_080",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q80)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_081",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q81)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_082",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q82)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_083",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q83)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_084",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q84)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_085",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q85)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_086",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q86)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_087",
+      "question": "What should pet owners know about red_flags in Eye Discharge & Conjunctivitis? (Q87)",
+      "answer": "This question addresses red_flags related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "red_flags",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_088",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q88)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_089",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q89)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_090",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q90)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_091",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q91)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_092",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q92)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_093",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q93)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_094",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q94)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_095",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q95)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_096",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q96)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_097",
+      "question": "What should pet owners know about causes in Eye Discharge & Conjunctivitis? (Q97)",
+      "answer": "This question addresses causes related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_098",
+      "question": "What should pet owners know about vet_tests in Eye Discharge & Conjunctivitis? (Q98)",
+      "answer": "This question addresses vet_tests related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_tests",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_099",
+      "question": "What should pet owners know about cleaning in Eye Discharge & Conjunctivitis? (Q99)",
+      "answer": "This question addresses cleaning related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cleaning",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    },
+    {
+      "id": "eye_conjunctivitis_100",
+      "question": "What should pet owners know about discharge_types in Eye Discharge & Conjunctivitis? (Q100)",
+      "answer": "This question addresses discharge_types related to Eye Discharge & Conjunctivitis. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "discharge_types",
+      "disease": "Eye Discharge & Conjunctivitis",
+      "lang": "en"
+    }
+  ]
+}

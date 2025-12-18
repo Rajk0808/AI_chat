@@ -1,0 +1,806 @@
+{
+  "disease": "Obesity",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "obesity_001",
+      "question": "What should pet owners know about signs in Obesity? (Q1)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_002",
+      "question": "What should pet owners know about monitoring in Obesity? (Q2)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_003",
+      "question": "What should pet owners know about diet in Obesity? (Q3)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_004",
+      "question": "What should pet owners know about diet in Obesity? (Q4)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_005",
+      "question": "What should pet owners know about exercise in Obesity? (Q5)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_006",
+      "question": "What should pet owners know about monitoring in Obesity? (Q6)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_007",
+      "question": "What should pet owners know about prevention in Obesity? (Q7)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_008",
+      "question": "What should pet owners know about prevention in Obesity? (Q8)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_009",
+      "question": "What should pet owners know about signs in Obesity? (Q9)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_010",
+      "question": "What should pet owners know about risks in Obesity? (Q10)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_011",
+      "question": "What should pet owners know about signs in Obesity? (Q11)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_012",
+      "question": "What should pet owners know about monitoring in Obesity? (Q12)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_013",
+      "question": "What should pet owners know about signs in Obesity? (Q13)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_014",
+      "question": "What should pet owners know about signs in Obesity? (Q14)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_015",
+      "question": "What should pet owners know about risks in Obesity? (Q15)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_016",
+      "question": "What should pet owners know about monitoring in Obesity? (Q16)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_017",
+      "question": "What should pet owners know about exercise in Obesity? (Q17)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_018",
+      "question": "What should pet owners know about monitoring in Obesity? (Q18)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_019",
+      "question": "What should pet owners know about signs in Obesity? (Q19)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_020",
+      "question": "What should pet owners know about signs in Obesity? (Q20)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_021",
+      "question": "What should pet owners know about signs in Obesity? (Q21)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_022",
+      "question": "What should pet owners know about monitoring in Obesity? (Q22)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_023",
+      "question": "What should pet owners know about exercise in Obesity? (Q23)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_024",
+      "question": "What should pet owners know about diet in Obesity? (Q24)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_025",
+      "question": "What should pet owners know about risks in Obesity? (Q25)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_026",
+      "question": "What should pet owners know about signs in Obesity? (Q26)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_027",
+      "question": "What should pet owners know about monitoring in Obesity? (Q27)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_028",
+      "question": "What should pet owners know about monitoring in Obesity? (Q28)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_029",
+      "question": "What should pet owners know about monitoring in Obesity? (Q29)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_030",
+      "question": "What should pet owners know about monitoring in Obesity? (Q30)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_031",
+      "question": "What should pet owners know about exercise in Obesity? (Q31)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_032",
+      "question": "What should pet owners know about monitoring in Obesity? (Q32)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_033",
+      "question": "What should pet owners know about prevention in Obesity? (Q33)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_034",
+      "question": "What should pet owners know about prevention in Obesity? (Q34)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_035",
+      "question": "What should pet owners know about signs in Obesity? (Q35)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_036",
+      "question": "What should pet owners know about diet in Obesity? (Q36)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_037",
+      "question": "What should pet owners know about diet in Obesity? (Q37)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_038",
+      "question": "What should pet owners know about prevention in Obesity? (Q38)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_039",
+      "question": "What should pet owners know about exercise in Obesity? (Q39)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_040",
+      "question": "What should pet owners know about signs in Obesity? (Q40)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_041",
+      "question": "What should pet owners know about exercise in Obesity? (Q41)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_042",
+      "question": "What should pet owners know about diet in Obesity? (Q42)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_043",
+      "question": "What should pet owners know about diet in Obesity? (Q43)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_044",
+      "question": "What should pet owners know about risks in Obesity? (Q44)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_045",
+      "question": "What should pet owners know about diet in Obesity? (Q45)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_046",
+      "question": "What should pet owners know about prevention in Obesity? (Q46)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_047",
+      "question": "What should pet owners know about risks in Obesity? (Q47)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_048",
+      "question": "What should pet owners know about monitoring in Obesity? (Q48)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_049",
+      "question": "What should pet owners know about exercise in Obesity? (Q49)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_050",
+      "question": "What should pet owners know about signs in Obesity? (Q50)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_051",
+      "question": "What should pet owners know about exercise in Obesity? (Q51)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_052",
+      "question": "What should pet owners know about monitoring in Obesity? (Q52)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_053",
+      "question": "What should pet owners know about monitoring in Obesity? (Q53)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_054",
+      "question": "What should pet owners know about diet in Obesity? (Q54)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_055",
+      "question": "What should pet owners know about diet in Obesity? (Q55)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_056",
+      "question": "What should pet owners know about monitoring in Obesity? (Q56)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_057",
+      "question": "What should pet owners know about monitoring in Obesity? (Q57)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_058",
+      "question": "What should pet owners know about risks in Obesity? (Q58)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_059",
+      "question": "What should pet owners know about exercise in Obesity? (Q59)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_060",
+      "question": "What should pet owners know about signs in Obesity? (Q60)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_061",
+      "question": "What should pet owners know about signs in Obesity? (Q61)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_062",
+      "question": "What should pet owners know about risks in Obesity? (Q62)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_063",
+      "question": "What should pet owners know about monitoring in Obesity? (Q63)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_064",
+      "question": "What should pet owners know about signs in Obesity? (Q64)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_065",
+      "question": "What should pet owners know about risks in Obesity? (Q65)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_066",
+      "question": "What should pet owners know about diet in Obesity? (Q66)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_067",
+      "question": "What should pet owners know about exercise in Obesity? (Q67)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_068",
+      "question": "What should pet owners know about risks in Obesity? (Q68)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_069",
+      "question": "What should pet owners know about signs in Obesity? (Q69)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_070",
+      "question": "What should pet owners know about prevention in Obesity? (Q70)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_071",
+      "question": "What should pet owners know about diet in Obesity? (Q71)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_072",
+      "question": "What should pet owners know about exercise in Obesity? (Q72)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_073",
+      "question": "What should pet owners know about risks in Obesity? (Q73)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_074",
+      "question": "What should pet owners know about risks in Obesity? (Q74)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_075",
+      "question": "What should pet owners know about monitoring in Obesity? (Q75)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_076",
+      "question": "What should pet owners know about monitoring in Obesity? (Q76)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_077",
+      "question": "What should pet owners know about signs in Obesity? (Q77)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_078",
+      "question": "What should pet owners know about diet in Obesity? (Q78)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_079",
+      "question": "What should pet owners know about exercise in Obesity? (Q79)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_080",
+      "question": "What should pet owners know about prevention in Obesity? (Q80)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_081",
+      "question": "What should pet owners know about prevention in Obesity? (Q81)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_082",
+      "question": "What should pet owners know about prevention in Obesity? (Q82)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_083",
+      "question": "What should pet owners know about exercise in Obesity? (Q83)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_084",
+      "question": "What should pet owners know about monitoring in Obesity? (Q84)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_085",
+      "question": "What should pet owners know about signs in Obesity? (Q85)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_086",
+      "question": "What should pet owners know about monitoring in Obesity? (Q86)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_087",
+      "question": "What should pet owners know about risks in Obesity? (Q87)",
+      "answer": "This question addresses risks related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_088",
+      "question": "What should pet owners know about diet in Obesity? (Q88)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_089",
+      "question": "What should pet owners know about prevention in Obesity? (Q89)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_090",
+      "question": "What should pet owners know about prevention in Obesity? (Q90)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_091",
+      "question": "What should pet owners know about exercise in Obesity? (Q91)",
+      "answer": "This question addresses exercise related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "exercise",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_092",
+      "question": "What should pet owners know about diet in Obesity? (Q92)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_093",
+      "question": "What should pet owners know about prevention in Obesity? (Q93)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_094",
+      "question": "What should pet owners know about signs in Obesity? (Q94)",
+      "answer": "This question addresses signs related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_095",
+      "question": "What should pet owners know about monitoring in Obesity? (Q95)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_096",
+      "question": "What should pet owners know about prevention in Obesity? (Q96)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_097",
+      "question": "What should pet owners know about diet in Obesity? (Q97)",
+      "answer": "This question addresses diet related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "diet",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_098",
+      "question": "What should pet owners know about monitoring in Obesity? (Q98)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_099",
+      "question": "What should pet owners know about monitoring in Obesity? (Q99)",
+      "answer": "This question addresses monitoring related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "monitoring",
+      "disease": "Obesity",
+      "lang": "en"
+    },
+    {
+      "id": "obesity_100",
+      "question": "What should pet owners know about prevention in Obesity? (Q100)",
+      "answer": "This question addresses prevention related to Obesity. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Obesity",
+      "lang": "en"
+    }
+  ]
+}

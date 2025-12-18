@@ -9,6 +9,6 @@ class RAGPipeline:
                   query : str,
                   top_k : int
                   ):
-        return retriever.retrive_context(self = retriever(),query=query, top_k = top_k)
-
-
+        print("*"*70)
+        print(retriever.retrive_context(self = retriever(),query=query, top_k = top_k))
+        return retriever().retrive_context(query=query, top_k=top_k)

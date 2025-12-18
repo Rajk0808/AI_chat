@@ -1,0 +1,806 @@
+{
+  "disease": "Paw Pad Injuries",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "paw_pad_injuries_001",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q1)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_002",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q2)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_003",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q3)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_004",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q4)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_005",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q5)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_006",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q6)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_007",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q7)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_008",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q8)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_009",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q9)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_010",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q10)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_011",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q11)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_012",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q12)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_013",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q13)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_014",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q14)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_015",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q15)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_016",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q16)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_017",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q17)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_018",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q18)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_019",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q19)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_020",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q20)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_021",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q21)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_022",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q22)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_023",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q23)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_024",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q24)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_025",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q25)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_026",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q26)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_027",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q27)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_028",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q28)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_029",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q29)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_030",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q30)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_031",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q31)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_032",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q32)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_033",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q33)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_034",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q34)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_035",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q35)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_036",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q36)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_037",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q37)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_038",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q38)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_039",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q39)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_040",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q40)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_041",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q41)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_042",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q42)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_043",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q43)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_044",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q44)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_045",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q45)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_046",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q46)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_047",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q47)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_048",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q48)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_049",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q49)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_050",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q50)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_051",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q51)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_052",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q52)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_053",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q53)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_054",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q54)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_055",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q55)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_056",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q56)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_057",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q57)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_058",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q58)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_059",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q59)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_060",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q60)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_061",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q61)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_062",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q62)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_063",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q63)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_064",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q64)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_065",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q65)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_066",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q66)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_067",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q67)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_068",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q68)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_069",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q69)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_070",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q70)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_071",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q71)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_072",
+      "question": "What should pet owners know about first_aid in Paw Pad Injuries? (Q72)",
+      "answer": "This question addresses first_aid related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_073",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q73)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_074",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q74)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_075",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q75)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_076",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q76)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_077",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q77)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_078",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q78)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_079",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q79)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_080",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q80)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_081",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q81)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_082",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q82)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_083",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q83)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_084",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q84)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_085",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q85)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_086",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q86)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_087",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q87)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_088",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q88)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_089",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q89)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_090",
+      "question": "What should pet owners know about healing in Paw Pad Injuries? (Q90)",
+      "answer": "This question addresses healing related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "healing",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_091",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q91)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_092",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q92)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_093",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q93)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_094",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q94)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_095",
+      "question": "What should pet owners know about cuts in Paw Pad Injuries? (Q95)",
+      "answer": "This question addresses cuts related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "cuts",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_096",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q96)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_097",
+      "question": "What should pet owners know about burns in Paw Pad Injuries? (Q97)",
+      "answer": "This question addresses burns related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "burns",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_098",
+      "question": "What should pet owners know about bandaging in Paw Pad Injuries? (Q98)",
+      "answer": "This question addresses bandaging related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "bandaging",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_099",
+      "question": "What should pet owners know about foreign_bodies in Paw Pad Injuries? (Q99)",
+      "answer": "This question addresses foreign_bodies related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "foreign_bodies",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    },
+    {
+      "id": "paw_pad_injuries_100",
+      "question": "What should pet owners know about prevention in Paw Pad Injuries? (Q100)",
+      "answer": "This question addresses prevention related to Paw Pad Injuries. Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Paw Pad Injuries",
+      "lang": "en"
+    }
+  ]
+}

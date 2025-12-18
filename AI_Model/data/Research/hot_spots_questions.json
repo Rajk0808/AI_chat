@@ -1,0 +1,806 @@
+{
+  "disease": "Hot Spots (Acute Moist Dermatitis)",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "hot_spots_001",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q1)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_002",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q2)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_003",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q3)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_004",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q4)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_005",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q5)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_006",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q6)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_007",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q7)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_008",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q8)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_009",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q9)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_010",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q10)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_011",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q11)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_012",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q12)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_013",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q13)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_014",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q14)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_015",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q15)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_016",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q16)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_017",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q17)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_018",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q18)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_019",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q19)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_020",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q20)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_021",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q21)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_022",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q22)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_023",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q23)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_024",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q24)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_025",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q25)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_026",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q26)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_027",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q27)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_028",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q28)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_029",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q29)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_030",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q30)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_031",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q31)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_032",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q32)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_033",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q33)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_034",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q34)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_035",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q35)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_036",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q36)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_037",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q37)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_038",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q38)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_039",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q39)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_040",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q40)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_041",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q41)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_042",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q42)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_043",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q43)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_044",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q44)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_045",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q45)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_046",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q46)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_047",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q47)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_048",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q48)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_049",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q49)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_050",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q50)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_051",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q51)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_052",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q52)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_053",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q53)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_054",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q54)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_055",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q55)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_056",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q56)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_057",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q57)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_058",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q58)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_059",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q59)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_060",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q60)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_061",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q61)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_062",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q62)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_063",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q63)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_064",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q64)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_065",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q65)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_066",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q66)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_067",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q67)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_068",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q68)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_069",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q69)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_070",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q70)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_071",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q71)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_072",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q72)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_073",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q73)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_074",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q74)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_075",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q75)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_076",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q76)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_077",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q77)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_078",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q78)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_079",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q79)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_080",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q80)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_081",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q81)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_082",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q82)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_083",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q83)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_084",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q84)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_085",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q85)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_086",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q86)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_087",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q87)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_088",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q88)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_089",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q89)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_090",
+      "question": "What should pet owners know about vet_care in Hot Spots (Acute Moist Dermatitis)? (Q90)",
+      "answer": "This question addresses vet_care related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "vet_care",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_091",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q91)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_092",
+      "question": "What should pet owners know about prevention in Hot Spots (Acute Moist Dermatitis)? (Q92)",
+      "answer": "This question addresses prevention related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "prevention",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_093",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q93)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_094",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q94)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_095",
+      "question": "What should pet owners know about risks in Hot Spots (Acute Moist Dermatitis)? (Q95)",
+      "answer": "This question addresses risks related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "risks",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_096",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q96)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_097",
+      "question": "What should pet owners know about signs in Hot Spots (Acute Moist Dermatitis)? (Q97)",
+      "answer": "This question addresses signs related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "signs",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_098",
+      "question": "What should pet owners know about first_aid in Hot Spots (Acute Moist Dermatitis)? (Q98)",
+      "answer": "This question addresses first_aid related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "first_aid",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_099",
+      "question": "What should pet owners know about causes in Hot Spots (Acute Moist Dermatitis)? (Q99)",
+      "answer": "This question addresses causes related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "causes",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    },
+    {
+      "id": "hot_spots_100",
+      "question": "What should pet owners know about recovery in Hot Spots (Acute Moist Dermatitis)? (Q100)",
+      "answer": "This question addresses recovery related to Hot Spots (Acute Moist Dermatitis). Key points include recognizing early signs, applying appropriate first actions, avoiding unsafe home remedies, and seeking veterinary care when symptoms worsen or persist beyond safe limits.",
+      "topic": "recovery",
+      "disease": "Hot Spots (Acute Moist Dermatitis)",
+      "lang": "en"
+    }
+  ]
+}
