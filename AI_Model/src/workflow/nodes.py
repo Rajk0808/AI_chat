@@ -1,8 +1,11 @@
 import sys
-from state_definition import WorkFlowState
 import time
+from pathlib import Path
+PROJECT_ROOT = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+from src.workflow.state_definition import WorkFlowState
 import logging
-from rag.rag_pipline import RAGPipeline
+from src.rag.rag_pipline import RAGPipeline
 from typing import Dict
 from src.utils.exceptions import CustomException
 logger = logging.getLogger(__name__)
@@ -99,7 +102,7 @@ def rag_retrieval_node(state: WorkFlowState) -> WorkFlowState:
 
     try:
         # Step 1: Call RAG system
-        rag_system = RAGPipeline() #---------------
+        rag_system = RAGPipeline() 
         
         # Step 2: Retrieve documents
         docs = rag_system.retriever(

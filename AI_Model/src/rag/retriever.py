@@ -1,7 +1,10 @@
-import config.constants as constants
-from rag.embeddings import embed_query
+from embeddings import embed_query
 from pinecone import Pinecone
-
+import sys
+from pathlib import Path
+PROJECT_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+import config.constants as constants
 class PineconeRetriever:
     def __init__(self):
         self.pc=Pinecone(api_key=constants.PINECONE_API_KEY)

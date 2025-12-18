@@ -315,8 +315,8 @@ class Node5ModelInference:
         for attempt in range(self.max_retries):
             try:
                 logger.info(f"API call attempt {attempt + 1}/{self.max_retries}...")
-                
-                response = self.client.chat.completions.create(
+                base_model = self.model_factory.get_base_model()
+                response = base_model.chat.completions.create(
                     model=model,
                     messages=[
                         {

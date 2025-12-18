@@ -1,6 +1,19 @@
 from langgraph.graph import START, END, StateGraph
-import nodes
-from state_definition import WorkFlowState
+
+from AI_Model.src.workflow.nodes import (
+    input_processing_node,
+    decision_router_node,
+    rag_retrieval_node,
+    engineer_prompt_node,
+    run_model_inference_node,
+    validate_response_node,
+    log_interaction_node,
+    check_fine_tuning_trigger_node,
+)
+
+from AI_Model.src.workflow.state_definition import WorkFlowState
+
+
 def build_complete_workflow():
     """Build complete LangGraph with all 8 nodes"""
     state = WorkFlowState()
@@ -8,23 +21,27 @@ def build_complete_workflow():
     workflow = StateGraph(WorkFlowState)
     
     # Add all nodes
-    workflow.add_node("input_processing", nodes.input_processing_node(state))
-    workflow.add_node("decision_router", nodes.decision_router_node)
-    workflow.add_node("rag_retrieval", nodes.rag_retrieval_node)
-    workflow.add_node("prompt_engineering", nodes.engineer_prompt_node)
-    workflow.add_node("model_inference", nodes.run_model_inference_node)
-    workflow.add_node("response_validation", nodes.validate_response_node) 
-    workflow.add_node("logging", nodes.log_interaction_node)               
-    workflow.add_node("fine_tuning_check", nodes.check_fine_tuning_trigger_node)  
+    workflow.add_node("input_processing", input_processing_node)
+    workflow.add_node("decision_router", decision_router_node)
+    workflow.add_node("rag_retrieval", rag_retrieval_node)
+    workflow.add_node("prompt_engineering", engineer_prompt_node)
+    workflow.add_node("model_inference", run_model_inference_node)
+    workflow.add_node("response_validation", validate_response_node) 
+    workflow.add_node("logging", log_interaction_node)               
+    workflow.add_node("fine_tuning_check", check_fine_tuning_trigger_node)  
     
     # Define edges
     workflow.add_edge(START, "input_processing")
     workflow.add_edge("input_processing", "decision_router")
     workflow.add_conditional_edges(
-        "decision_router",
-        should_use_rag,
-        {True: "rag_retrieval", False: "prompt_engineering"}
-    )
+    "decision_router",
+    lambda state: state.use_rag,
+    {
+        True: "rag_retrieval",
+        False: "prompt_engineering",
+    },
+)
+
     workflow.add_edge("rag_retrieval", "prompt_engineering")
     workflow.add_edge("prompt_engineering", "model_inference")
     workflow.add_edge("model_inference", "response_validation")  
