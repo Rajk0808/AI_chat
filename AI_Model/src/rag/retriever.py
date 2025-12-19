@@ -1,23 +1,13 @@
 import os
-import sys
 import time
-from pathlib import Path
 from typing import List, Dict, Any
 
 from pinecone import Pinecone, ServerlessSpec
 from embeddings import embed_query
-
-# ------------------------------------------------------------------
-# PROJECT ROOT SETUP
-# ------------------------------------------------------------------
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
-sys.path.insert(0, str(PROJECT_ROOT))
-
-import config.constants as constants
-
-
-INDEX_NAME = constants.PINECONE_INDEX_NAME
-API_KEY = constants.PINECONE_API_KEY
+from dotenv import load_dotenv
+load_dotenv()
+INDEX_NAME = os.getenv('PINECONE_INDEX_NAME')
+API_KEY = os.getenv('PINECONE_API_KEY')
 
 EMBED_DIMENSION = 1536        
 METRIC = "cosine"

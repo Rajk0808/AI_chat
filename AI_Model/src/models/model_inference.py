@@ -1,5 +1,7 @@
-from openai import OpenAI
 import sys
+from dotenv import load_dotenv
+load_dotenv()
+import os
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).parent.parent))
 import time
@@ -10,11 +12,9 @@ from openai import OpenAI, APIError, RateLimitError, APIConnectionError
 from models.model_factory import ModelFactory
 from utils.exceptions import CustomException
 from utils.metrics import MetricsTracker
-from openai import OpenAI
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-import config.constants as config
 from datetime import datetime
 from datetime import datetime
 from utils.exceptions import CustomException
@@ -33,7 +33,7 @@ class Node5ModelInference:
     - Monitor rate limits
     """
     
-    def __init__(self, api_key: Optional[str] = config.OPENAIAPI):
+    def __init__(self, api_key: Optional[str] = os.getenv('OPENAIAPI')):
         """
         Initialize model inference engine
         
@@ -325,7 +325,7 @@ class Node5ModelInference:
                 from openai import OpenAI
                 logger.info(f"API call attempt {attempt + 1}/{self.max_retries}...")
                 base_model = self.model_factory.get_base_model()
-                client = OpenAI(api_key=config.OPENAIAPI)
+                client = OpenAI(api_key=os.getenv('OPENAIAPI'))
                 response = client.chat.completions.create(
                     model=model,
                     messages=[

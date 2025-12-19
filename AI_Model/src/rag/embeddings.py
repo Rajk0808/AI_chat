@@ -1,18 +1,17 @@
 from typing import List
 from openai import OpenAI
-import sys
 from pathlib import Path
-PROJECT_ROOT = Path(__file__).parent.parent.parent
-sys.path.insert(0,str(PROJECT_ROOT))
-import config.constants as constants
+import os
+from dotenv import load_dotenv
 class EmbeddingServices:
     """
     Handles embedding genration for query
     """
-
+    load_dotenv()
     def __init__(self):
-        self.client=OpenAI(api_key=constants.OPENAIAPI)
-        self.model = constants.EMBEDDING_MODEL
+        api_key = os.getenv('OPENAIAPI')
+        self.client=OpenAI(api_key=api_key)
+        self.model = os.getenv('EMBEDDING_MODEL')
 
     def embed_query(self,query:str)->List[float]:
 
