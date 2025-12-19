@@ -121,7 +121,6 @@ class Node6ResponseValidator:
             state["confidence_score"] = confidence_score
             state["response_quality"] = quality_check
             state["safety_check"] = safety_check
-            
             logger.info("=" * 70)
             logger.info("NODE 6 COMPLETE - Response validated and formatted")
             logger.info("=" * 70)

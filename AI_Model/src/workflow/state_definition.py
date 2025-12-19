@@ -1,11 +1,3 @@
-"""
-state_definition.py
-Defines the WorkFlowState for LangGraph using TypedDict
-
-This flows through the graph nodes:
-Each Node receives this State as input, modifies it, and passes it to the next node.
-"""
-
 from typing import List, Dict, Any
 from typing_extensions import TypedDict
 

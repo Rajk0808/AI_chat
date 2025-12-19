@@ -21,7 +21,8 @@ class EmbeddingServices:
 
         response=self.client.embeddings.create(
             model=self.model,
-            input=query
+            input=query,
+            dimensions = 1536
         )
         return response.data[0].embedding
 

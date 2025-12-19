@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 # Try importing RAG - if it fails, continue with mock
 try:
-    from src.rag.rag_pipline import RAGPipeline
+    from src.rag.rag_pipline import RAGPipeline, should_use_rag
     RAG_AVAILABLE = True
 except Exception as e:
     logger.warning(f"RAG not available: {e}")
@@ -95,9 +95,8 @@ def decision_router_node(state: Dict) -> Dict:
     try:
         query = state.get("query", "").lower()
         
-        # Analyze Query keywords to decide RAG usage
-        rag_keywords = ['what', 'how', 'explain', 'describe', 'guide', 'help', 'list', 'tell', 'find']
-        use_rag = any(keyword in query for keyword in rag_keywords)
+        
+        use_rag = should_use_rag(query)
         
         state["use_rag"] = use_rag
         logger.info(f"RAG decision: use_rag = {use_rag}")
@@ -171,9 +170,9 @@ def rag_retrieval_node(state: Dict) -> Dict:
             
             # Step 3: Update state
             state["retrieved_docs"] = docs if docs else []
-            state["context"] = "\n---\n".join(docs) if docs else ""
+            state["context"] = "\n---\n".join(doc['text'] for doc in docs) if docs else ""
             state["rag_time"] = float(time.time() - rag_start)
-            
+            print((state['retrieved_docs']))
             logger.info(f'RAG retrieved {len(docs)} documents in {state["rag_time"]:.2f}s')
             return state
             
@@ -206,7 +205,6 @@ def engineer_prompt_node(state: Dict) -> Dict:
     try:
         query = state.get("query", "")
         context = state.get("context", "")
-        
         # Build the prompt
         if context:
             prompt = f"""Based on the following context, answer the user's query:
@@ -252,6 +250,7 @@ def run_model_inference_node(state: Dict) -> Dict:
         from AI_Model.src.models.model_inference import Node5ModelInference
         node = Node5ModelInference()
         result = node.run_inference(state)
+
         logger.info("Model inference completed")
         return result
         

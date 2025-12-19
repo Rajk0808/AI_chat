@@ -1,33 +1,39 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-from AI_Model.src.utils.exceptions import CustomException
-from AI_Model.src.workflow.graph_builder import build_complete_workflow
+from fastapi import FastAPI, HTTPException, status
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel, Field
+from typing import Optional, List
 import logging
-from typing import Optional
 import traceback
 import sys
-# Initialize Flask app
-app = Flask(__name__)
-CORS(app)
+from contextlib import asynccontextmanager
 
-# Setup logging
+from AI_Model.src.utils.exceptions import CustomException
+from AI_Model.src.workflow.graph_builder import build_complete_workflow
+
+class ChatRequest(BaseModel):
+    """Request model for chat endpoint"""
+    message: str = Field(..., min_length=1, max_length=5000, description="User message")
+
+class ChatResponse(BaseModel):
+    """Response model for chat endpoint"""
+    reply: str
+    status: str = "success"
+
+class MessageResponse(BaseModel):
+    """Generic message response"""
+    message: str
+    status: str = "success"
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# Compile the workflow once at startup
-try:
-    workflow = build_complete_workflow()
-    logger.info("✓ Workflow compiled successfully")
-except Exception as e:
-    logger.error(f"✗ Error compiling workflow: {e}")
-    workflow = None
+workflow = None
+pipeline = None
 
 class ChatbotPipeline:
     """Manages the chatbot workflow execution"""
     
     def __init__(self, compiled_workflow):
         self.workflow = compiled_workflow
-        self.conversation_history = []
+        self.conversation_history: List[dict] = []
     
     def process_message(self, user_input: str) -> Optional[str]:
         """
@@ -40,16 +46,14 @@ class ChatbotPipeline:
             Bot response or error message
         """
         try:
-            # Create initial state
             initial_state = {
                 "query": user_input,
                 "conversation_history": self.conversation_history,
-                "use_rag": True,  # Set based on your logic
+                "use_rag": True,  
                 "messages": [],
                 "current_step": "input_processing"
             }
             
-            # Execute workflow
             logger.info(f"Processing input: {user_input[:50]}...")
             result = self.workflow.invoke(initial_state)
             
@@ -81,17 +85,9 @@ class ChatbotPipeline:
         Returns:
             The bot's response string
         """
-        # Adjust these keys based on your actual state structure
         if isinstance(result, dict):
             # Try different possible keys where response might be stored
-            possible_keys = [
-                "response",
-                "final_response", 
-                "output",
-                "bot_response",
-                "messages",
-                "answer"
-            ]
+            possible_keys = ["validated_response"]
             
             for key in possible_keys:
                 if key in result and result[key]:
@@ -111,126 +107,32 @@ class ChatbotPipeline:
         """Reset conversation history"""
         self.conversation_history = []
         logger.info("Conversation history reset")
+        return 
+    def get_history(self) -> List[dict]:
+        """Get conversation history"""
+        return self.conversation_history
 
-
-# Initialize pipeline
-pipeline = ChatbotPipeline(workflow)
-
-
-# ==================== FLASK ROUTES ====================
-
-@app.route('/health', methods=['GET'])
-def health_check():
-    """Health check endpoint"""
-    return jsonify({
-        "status": "running",
-        "workflow_loaded": workflow is not None
-    }), 200
-
-
-@app.route('/chat', methods=['POST'])
-def chat():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     """
-    Main chat endpoint
-    Expects: {"message": "user message"}
-    Returns: {"reply": "bot response", "status": "success"}
+    Manages startup and shutdown events
     """
-    try:
-        data = request.json
-        user_message = data.get('message', '').strip()
-        
-        if not user_message:
-            return jsonify({
-                "reply": "Please enter a message",
-                "status": "error"
-            }), 400
-        
-        if workflow is None:
-            return jsonify({
-                "reply": "Workflow not initialized. Check server logs.",
-                "status": "error"
-            }), 500
-        
-        # Process through pipeline
-        response = pipeline.process_message(user_message)
-        
-        return jsonify({
-            "reply": response,
-            "status": "success"
-        }), 200
-        
-    except Exception as e:
-        logger.error(f"Chat endpoint error: {e}")
-        return jsonify({
-            "reply": f"Server error: {str(e)}",
-            "status": "error"
-        }), 500
-
-
-@app.route('/reset', methods=['POST'])
-def reset_chat():
-    """Reset conversation history"""
-    try:
-        pipeline.reset_conversation()
-        return jsonify({
-            "message": "Conversation reset",
-            "status": "success"
-        }), 200
-    except Exception as e:
-        return jsonify({
-            "message": f"Error resetting: {str(e)}",
-            "status": "error"
-        }), 500
-
-
-@app.route('/history', methods=['GET'])
-def get_history():
-    """Get conversation history"""
-    try:
-        return jsonify({
-            "history": pipeline.conversation_history,
-            "status": "success"
-        }), 200
-    except Exception as e:
-        return jsonify({
-            "message": f"Error retrieving history: {str(e)}",
-            "status": "error"
-        }), 500
-
-
-@app.route('/status', methods=['GET'])
-def get_status():
-    """Get current system status"""
-    try:
-        return jsonify({
-            "workflow_loaded": workflow is not None,
-            "conversation_length": len(pipeline.conversation_history),
-            "status": "running"
-        }), 200
-    except Exception as e:
-        return jsonify({
-            "status": "error",
-            "message": str(e)
-        }), 500
-
-
-@app.errorhandler(404)
-def not_found(error):
-    return jsonify({"error": "Endpoint not found"}), 404
-
-
-@app.errorhandler(500)
-def internal_error(error):
-    logger.error(f"Internal server error: {error}")
-    return jsonify({"error": "Internal server error"}), 500
-
-
-# ==================== MAIN EXECUTION ====================
-
-if __name__ == '__main__':
+    # Startup
+    global workflow, pipeline
+    
     logger.info("=" * 50)
     logger.info("Starting AI Chatbot Server")
     logger.info("=" * 50)
+    
+    try:
+        workflow = build_complete_workflow()
+        pipeline = ChatbotPipeline(workflow)
+        logger.info("✓ Workflow compiled successfully")
+    except Exception as e:
+        logger.error(f"✗ Error compiling workflow: {e}")
+        logger.error(traceback.format_exc())
+        workflow = None
+        pipeline = None
     
     if workflow is None:
         logger.error("CRITICAL: Workflow failed to compile!")
@@ -238,16 +140,81 @@ if __name__ == '__main__':
     else:
         logger.info("✓ Workflow ready")
         logger.info("Available endpoints:")
-        logger.info("  POST   /chat      - Send message")
-        logger.info("  POST   /reset     - Reset conversation")
-        logger.info("  GET    /history   - Get chat history")
-        logger.info("  GET    /status    - Get server status")
-        logger.info("  GET    /health    - Health check")
+        logger.info("  POST   /api/chat      - Send message")
         logger.info("=" * 50)
     
-    app.run(
-        debug=True,
-        host='0.0.0.0',
-        port=5000,
-        use_reloader=False  # Prevent double initialization
+    yield
+    
+    # Shutdown
+    logger.info("Shutting down server...")
+app = FastAPI(
+    title="AI Chatbot API",
+    description="FastAPI backend for AI Chatbot with LangGraph workflow",
+    version="1.0.0",
+    lifespan=lifespan
+)
+
+@app.post(
+    "/api/chat",
+    response_model=ChatResponse,
+    tags=["Chat"],
+    summary="Send a message to the chatbot",
+    responses={
+        200: {"description": "Message processed successfully"},
+        400: {"description": "Invalid request (empty message)"},
+        500: {"description": "Server error"}
+    }
+)
+async def chat(request: ChatRequest):
+    """
+    Main chat endpoint - sends user message to chatbot
+    
+    Args:
+        request: ChatRequest containing the user message
+        
+    Returns:
+        ChatResponse: Bot's reply and status
+        
+    Raises:
+        HTTPException: If message is empty or workflow not initialized
+    """
+    try:
+        user_message = request.message.strip()
+        
+        if not user_message:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Please enter a message"
+            )
+        
+        if workflow is None:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="Workflow not initialized. Check server logs."
+            )
+        
+        # Process through pipeline
+        response = pipeline.process_message(user_message) #type: ignore
+        
+        return ChatResponse(reply=response  , status="success")#type: ignore
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Chat endpoint error: {e}")
+        logger.error(traceback.format_exc())
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Server error: {str(e)}"
+        )
+
+if __name__ == "__main__":
+    import uvicorn
+    
+    uvicorn.run(
+        "main:app",  # Change "main" to your file name if different
+        host="0.0.0.0",
+        port=8000,
+        reload=False,
+        log_level="info"
     )

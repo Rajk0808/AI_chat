@@ -1,38 +1,126 @@
-from embeddings import embed_query
-from pinecone import Pinecone
+import os
 import sys
+import time
 from pathlib import Path
-PROJECT_ROOT = Path(__file__).parent.parent
+from typing import List, Dict, Any
+
+from pinecone import Pinecone, ServerlessSpec
+from embeddings import embed_query
+
+# ------------------------------------------------------------------
+# PROJECT ROOT SETUP
+# ------------------------------------------------------------------
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(PROJECT_ROOT))
+
 import config.constants as constants
-#api = pcsk_21TWTB_4g6huMtcu3YtLfa1ZVXKcdrum5H6GPXrGiwg1UNg5jvskmgM2MmAgr1VwVHXfpw
+
+
+INDEX_NAME = constants.PINECONE_INDEX_NAME
+API_KEY = constants.PINECONE_API_KEY
+
+EMBED_DIMENSION = 1536        
+METRIC = "cosine"
+CLOUD = "aws"
+REGION = "us-east-1"
+
 class PineconeRetriever:
     def __init__(self):
-        self.pc = Pinecone(api_key=constants.PINECONE_API_KEY)
-        self.index = self.pc.Index(name=constants.PINECONE_INDEX_NAME)
+        if not API_KEY:
+            raise RuntimeError("PINECONE_API_KEY is missing")
 
-    def retrive_context(self, query: str, top_k: int):
+        self.pc = Pinecone(api_key=API_KEY)
+
+        self._ensure_index_exists()
+        self.index = self.pc.Index(INDEX_NAME)
+
+    def _ensure_index_exists(self):
+        existing_indexes = [i["name"] for i in self.pc.list_indexes()]
+
+        if INDEX_NAME not in existing_indexes:
+            print(f"[Pinecone] Creating index: {INDEX_NAME}")
+
+            self.pc.create_index(
+                name=INDEX_NAME,
+                dimension=EMBED_DIMENSION,
+                metric=METRIC,
+                spec=ServerlessSpec(
+                    cloud=CLOUD,
+                    region=REGION,
+                ),
+            )
+
+            # Wait until index is ready
+            self._wait_for_index()
+
+        else:
+            print(f"[Pinecone] Index '{INDEX_NAME}' found")
+
+    def _wait_for_index(self, timeout: int = 120):
+        start = time.time()
+        while time.time() - start < timeout:
+            try:
+                self.pc.describe_index(INDEX_NAME)
+                print("[Pinecone] Index is ready")
+                return
+            except Exception:
+                time.sleep(3)
+
+        raise TimeoutError("Pinecone index creation timed out")
+
+    def retrieve_context(
+        self,
+        query: str,
+        top_k: int = 5,
+        namespace: str | None = None,
+    ) -> List[Dict[str, Any]]:
+
         query_vector = embed_query(query)
-      
+
+        if len(query_vector) != EMBED_DIMENSION:
+            raise ValueError(
+                f"Embedding dimension mismatch: "
+                f"{len(query_vector)} != {EMBED_DIMENSION}"
+            )
+
         result = self.index.query(
             vector=query_vector,
             top_k=top_k,
-            include_metadata=True
-        )     
+            include_metadata=True,
+            namespace=namespace,
+        )
 
         context = []
 
-        for match in result["matches"]:
+        for match in result["matches"]: #type: ignore
             metadata = match.get("metadata", {})
+
             context.append({
                 "text": (
                     metadata.get("text")
-                    or metadata.get("chunk_text")
+                    or metadata.get("answer")
                     or metadata.get("content")
                     or ""
                 ),
-                "score": match.get("score"),
-                "source": metadata.get("source", "unknown")
+                "question": metadata.get("question", ""),
+                "animal": metadata.get("animal", ""),
+                "source": metadata.get("source", ""),
+                "score": match.get("score", 0.0),
             })
 
         return context
+        
+
+# ------------------------------------------------------------------
+# SINGLETON ACCESS
+# ------------------------------------------------------------------
+_retriever = PineconeRetriever()
+
+
+def retrieve_context(
+    query: str,
+    top_k: int = 5,
+    namespace = None,
+):
+    return _retriever.retrieve_context(query, top_k, namespace)
+
